@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #7FFFD4;
+}
+
+h1 {
+    background-color: rgba(173, 153, 218, 0.522);
+    color: rgb(117, 23, 134); 
+    text-align: center; 
+    border: 2px solid black;
+}
+
+p{
+    color: black;
+    background-color: rgba(255, 99, 71, 0.2);
+}
+
+img{
+    border: 2px solid black;
+}
+
+div{
+    background-color: darkblue;
+    color: black;
+    opacity: 0.7;
+}
+
+h2{
+    background-color: #ff000080;
+}
+
+#Borda-superior{ 
+    border-top: 1px double black;
+    border-right: 1px dotted white;
+    border-left: 6px solid black;
+    border-bottom: 8px ridge white;
+}
+#Borda-esquerda{
+    border-left: 3px groove black;
+    border-right: 3px solid white;
+    border-top: 3px double white;
+    border-bottom:3px dotted white;
+} 
+
+#Borda-direita{ 
+    border: 3px double bla;
+}
+#Borda-inferior{ 
+    border-top: 1px double black;
+    border-right: 1px dotted white;
+    border-left: 6px solid black;
+    border-bottom: 8px ridge white;
+}
+
+#margem-superior{
+    margin-top: 50px;
+}
+
+#margem-inferior{
+    margin-bottom: 50px;
+}
+
+#margem-direita{
+    margin-right: 50px;
+}
+
+#margem-esquerda{
+    margin-left: 50px;
+}
+
+/*criando formatação de counteiner*/
+
+#container{
+    width: 300px;
+    margin: auto;
+    border: 1px solid red;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+h1{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 200px;
+    font-style: initial;
+}
+
